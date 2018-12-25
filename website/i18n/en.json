@@ -9,9 +9,16 @@
         "title": "Assignments",
         "sidebar_label": "Assignments"
       },
+      "home": {
+        "title": "home"
+      },
       "lectures": {
         "title": "Lectures",
         "sidebar_label": "Lectures"
+      },
+      "resources": {
+        "title": "Resources",
+        "sidebar_label": "Resources"
       },
       "syllabus": {
         "title": "Syllabus",
@@ -19,10 +26,9 @@
       }
     },
     "links": {
-      "News": "News",
-      "Docs": "Docs",
       "Lectures": "Lectures",
-      "Assignments": "Assignments"
+      "Assignments": "Assignments",
+      "Resources": "Resources"
     },
     "categories": {
       "Syllabus": "Syllabus"
