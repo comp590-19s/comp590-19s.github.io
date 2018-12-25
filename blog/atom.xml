@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://comp590-19s.github.io/blog</id>
-    <title>Intro to Systems Programming - Spring 2018 Blog</title>
+    <title>COMP590 - Spring 2018 Blog</title>
     <updated>2018-12-25T06:00:00Z</updated>
     <generator>Feed for Node.js</generator>
     <link rel="alternate" href="https://comp590-19s.github.io/blog"/>
-    <subtitle>The best place to stay up-to-date with the latest Intro to Systems Programming - Spring 2018 news and events.</subtitle>
+    <subtitle>The best place to stay up-to-date with the latest COMP590 - Spring 2018 news and events.</subtitle>
     <logo>https://comp590-19s.github.io/img/old-well.svg</logo>
     <rights>Copyright © 2018 Kris Jordan</rights>
     <entry>

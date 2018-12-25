@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>Intro to Systems Programming - Spring 2018 Blog</title>
+        <title>COMP590 - Spring 2018 Blog</title>
         <link>https://comp590-19s.github.io/blog</link>
-        <description>The best place to stay up-to-date with the latest Intro to Systems Programming - Spring 2018 news and events.</description>
+        <description>The best place to stay up-to-date with the latest COMP590 - Spring 2018 news and events.</description>
         <lastBuildDate>Tue, 25 Dec 2018 06:00:00 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
-            <title>Intro to Systems Programming - Spring 2018 Blog</title>
+            <title>COMP590 - Spring 2018 Blog</title>
             <url>https://comp590-19s.github.io/img/old-well.svg</url>
             <link>https://comp590-19s.github.io/blog</link>
         </image>
