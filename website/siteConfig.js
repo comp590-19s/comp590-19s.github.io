@@ -12,7 +12,7 @@
 const users = [];
 
 const siteConfig = {
-  title: 'COMP590 - Spring 2018',
+  title: 'COMP590 - Spring 2019',
   tagline: '',
   url: 'https://comp590-19s.github.io', // Your website URL
   baseUrl: '/', // Base URL for your project */
