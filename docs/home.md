@@ -1,16 +1,12 @@
-# Little Languages and Systems
-
-System programming is an overloaded term that can include: operating systems, distributed systems, parallel systems, programming language compilers/runtimes/interpreters, device drivers, utility software, and more. Classically, these programs are written in "systems languages" like C (1972-) and C++ (1985-); Rust (2010-) is a modern entrant with a head full of steam.
-
-COMP590 focuses on systems that 
+# The Structure and Interpretation of Little Languages
 
 In this course, you will:
 
-1. Implement the essences of practical, historically significant systems utilities. Each has its own little language and is founded upon theoretical computing machines.
-    - `dc` (1969) a calculator whose simple, reverse-polish notation language commands a virtual stack machine. 
+1. Implement the essences of practical, historically significant systems utilities, each with its own little language.
+    - `dc` (1969) a calculator whose simple, reverse-polish notation language commands a virtual stack machine. It is the oldest little language in Unix.
     - `bc` (1975), the successor to `dc`, is an infix-based context free language needing a  pushdown automata equivalent to parse. It will be implemented, as it was historically, as a frontend translator for `dc`.
     - `grep` (1974) is a regular expression pattern matching tool still widely used today. Its implementation will construct and simulate a non-deterministic finite state machine.
-    - `scheme` (1975) is a functional programming language rooted in Lisp and lambda calculus that can simulate any Turing Machine. It will be implemented as a basic read-evaluate-print-loop (REPL) interpreter.
+    - `sh` (1977 - Bourne) is a shell, or command-line interpreter, that introduces fundamental operating systems concepts.
 
 2. Gain experience with compiled systems languages.
     - Learn enough C to appreciate its strengths and dangers.
