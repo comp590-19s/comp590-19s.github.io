@@ -26,8 +26,8 @@
       }
     },
     "links": {
-      "Lectures": "Lectures",
       "Assignments": "Assignments",
+      "Lectures": "Lectures",
       "Resources": "Resources"
     },
     "categories": {
