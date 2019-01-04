@@ -37,11 +37,14 @@ class Footer extends React.Component {
           </a>
           <div>
             <h5>Docs</h5>
-            <a href={this.docUrl('syllabus.html')}>
-              Syllabus
-            </a>
             <a href={this.docUrl('assignments.html')}>
               Assignments
+            </a>
+            <a href={this.docUrl('lectures.html')}>
+	      Lectures
+            </a>
+            <a href={this.docUrl('resources.html')}>
+	      Resources
             </a>
           </div>
           <div>
