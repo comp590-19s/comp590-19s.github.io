@@ -68,6 +68,8 @@ You will be evaluated in this course as follows:
 
 Regrade requests on quizzes are handled through Gradescope. Regrade requests will only be accepted for the 72 hours following grade release on Gradescope.
 
+In order to pass the course you must score higher than a 40% on the final exam.
+
 ## Late Submission Policy
 
 Autograded problem sets will be accepted up to 2 days late for a 20% late penalty immediately following the grading deadline. All problem set submissions will be handed-in via GitHub and Gradescope.
@@ -88,7 +90,19 @@ You absolutely may, and are encouraged to, discuss general course concepts (i.e.
 
 ### Collaboration on Problem Sets
 
-TBD by FDOC
+On assignments, you are not allowed to:
+
+- Share code or let a peer view your code
+- Use shared code or view a peer's code
+- Type on a peer's keyboard or let anyone type on yours
+
+**With proper citation of collaboration in your problem set headers, you are allowed to**:
+
+- Discuss high-level concepts, approaches, and pseudo-code ideas **on whiteboards**
+- Help debug a peer's code by viewing their screen under the following conditions:
+  1. **Your own laptop must be fully closed** and you must not share any code
+  2. **You may not touch their keyboard**
+  3. **They should do 80% of the talking** and your 20% should be asking questions
 
 ## Class Participation
 
