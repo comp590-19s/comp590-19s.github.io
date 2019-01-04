@@ -1,8 +1,8 @@
 # The Interpretation and Applications of Little Languages
 
-Computer scientists and software engineers use little, domain-specific languages frequently in their day-to-day work: command-line shells, project build system configurations, regular expressions, utility programs, documentation markup languages, modal text editors, and so on. As these tools are numerous and domain-specific, our focus will be on their first principles, common challenges, implementations, and limitations.
+Computer scientists and software engineers depend on little languages and tools to interpret them frequently in their day-to-day work: command-line shells, project build system configurations, regular expressions, utility programs, documentation markup languages, modal text editors, and so on. As these languages are numerous and domain-specific, our focus will be on their first principles, common challenges, implementations, and limitations.
 
-This course will explore the structure and interpretation of little languages through case studies of standard programmer tools with historical significance such as `grep`,  `make`, `bash`, `vim`, and more. This course highlights important ideas in computational theory through direct, pragmatic applications in text pattern matching and structured language processing.
+This course will explore the structure and interpretation of little languages through case studies of standard programming environment tools with historical significance such as `grep`,  `make`, `bash`, `vim`, and more. This course highlights important ideas in computational theory through direct, pragmatic applications in text pattern matching and structured language processing.
 
 You will gain experience working in a systems language appropriate for implementing command-line tools with their own little languages. You will gain comfort working in a Unix-like programming environment and knowledge of its standard tooling and utilities. You will learn to make use of a Unix-like operating system's facilities and APIs for process management, memory management, and file system input/output.
 
