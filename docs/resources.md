@@ -4,6 +4,7 @@ title: Resources
 sidebar_label: Resources
 ---
 
-# Resources
+Commonly useful resources:
 
-This is the resources page.
+- [Syllabus](/docs/syllabus)
+- [Virtual Machine Setup](/docs/unc-comp-vm-setup.pdf)

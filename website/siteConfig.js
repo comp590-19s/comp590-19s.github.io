@@ -12,7 +12,7 @@
 const users = [];
 
 const siteConfig = {
-  title: 'COMP590 - Spring 2019',
+  title: 'Little Languages of Unix - COMP590 19S',
   tagline: '',
   url: 'https://comp590-19s.github.io', // Your website URL
   baseUrl: '/', // Base URL for your project */
@@ -30,9 +30,9 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'lectures', label: 'Lectures'},
+    {doc: 'lectures',    label: 'Lectures'},
     {doc: 'assignments', label: 'Assignments'},
-    {doc: 'syllabus', label: 'Resources'},
+    {doc: 'resources',   label: 'Resources'},
   ],
 
   // If you have users set above, you add it here:
@@ -45,8 +45,8 @@ const siteConfig = {
 
   /* Colors for website */
   colors: {
-    primaryColor: '#2E8555',
-    secondaryColor: '#205C3B',
+    primaryColor: '#4B9CD3',
+    secondaryColor: '#163f5b',
   },
 
   /* Custom fonts for website */
@@ -87,7 +87,7 @@ const siteConfig = {
   // enableUpdateBy: true,
 
   // Show documentation's last update time.
-  enableUpdateTime: true,
+  // enableUpdateTime: true,
 
   // You may provide arbitrary config keys to be used as needed by your
   // template. For example, if you need your repo's URL...

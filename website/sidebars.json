@@ -1,6 +1,9 @@
 {
   "docs": {
-    "Syllabus": ["syllabus"]
+    "Resources": [
+      "resources",
+      "syllabus"
+    ]
   },
   "docs-other": {
   }
