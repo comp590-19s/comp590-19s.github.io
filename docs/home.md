@@ -1,4 +1,4 @@
-# The Structure and Interpretation of Little Languages
+# The Interpretation and Applications of Little Languages
 
 Computer scientists and software engineers use little, domain-specific languages frequently in their day-to-day work: command-line shells, project build system configurations, regular expressions, utility programs, documentation markup languages, modal text editors, and so on. As these tools are numerous and domain-specific, our focus will be on their first principles, common challenges, implementations, and limitations.
 

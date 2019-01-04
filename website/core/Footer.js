@@ -50,10 +50,16 @@ class Footer extends React.Component {
               Gradescope
             </a>
             <a
-              href="https://course.care"
+              href="https://course.care/e/BD564B"
               target="_blank"
               rel="noreferrer noopener">
               Course.Care
+            </a>
+            <a
+              href="piazza.com/unc/spring2019/comp590140"
+              target="_blank"
+              rel="noreferrer noopener">
+	      Piazza
             </a>
           </div>
           <div>
