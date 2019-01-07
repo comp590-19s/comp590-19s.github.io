@@ -23,6 +23,10 @@
       "syllabus": {
         "title": "Syllabus - COMP590 - 140",
         "sidebar_label": "Syllabus"
+      },
+      "vm-faq": {
+        "title": "Virtual Machine (VM) - Frequently Asked Questions",
+        "sidebar_label": "Virtual Machine - FAQ"
       }
     },
     "links": {
