@@ -66,7 +66,7 @@ Programming Languages
 - Rust
 - C and C++ (with both gcc and clang compilers)
 - Python 3 (and 2)
-- Jupyter Notebook (once started, accessible at 33.33.33.33:3000)
+- Jupyter Notebook (once started with `jupyter notebook`, accessible at 33.33.33.33:8888)
 - JavaScript (`node` and `npm`)
 - TypeScript (and `ts-node`)
 - Ruby
