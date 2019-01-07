@@ -7,6 +7,7 @@ sidebar_label: Virtual Machine - FAQ
 Categories:
 
 - [Operating the VM](#operating-the-vm)
+- [VM Capabilities](#vm-capabilities)
 - [Common Issues Getting Started](#common-issues-getting-started)
 
 ## Operating the VM
@@ -51,6 +52,57 @@ If your terminal session is on your host machine, you will need to be sure your 
 Some of your computer's memory and CPU time will be allocated toward running the VM just like any other program. The idle state of your VM does not use many resources, though, so the cost of accidentally leaving your VM running is relatively small.
 
 If you attempt to reboot your host machine while the VM is running you will likely receive an error message confirming you want to terminate the VM. We recommend *not* **terminating** the VM, and properly shutting it down using the steps above.
+
+## VM Capabilities
+
+### What programming languages and tools are installed on the VM?
+
+The VM is loaded with programming languages and tools and you are encouraged to experiment with any! For the purposes of this course, we will not be able to cover them all.
+
+Operating System: **Ubuntu Server 18.04**
+
+Programming Languages
+
+- Rust
+- C and C++ (with both gcc and clang compilers)
+- Python 3 (and 2)
+- Jupyter Notebook (once started, accessible at 33.33.33.33:3000)
+- JavaScript (`node` and `npm`)
+- TypeScript (and `ts-node`)
+- Ruby
+- Scheme
+- PHP
+- Bash
+
+Utilities
+
+- `git` - Version control
+- `gdb` - GNU Debugger
+- `valgrind` - Memory leak detection and profiling
+- `rsync` - Fast file transfers
+- `htop` - Improved system monitor
+- `curl` - HTTP request tool
+- `zip` - Zip file compression
+
+Documentation Tools
+
+- LaTeX and TexLive
+- `pandoc`
+- `graphviz`
+
+File Editor
+
+- `vim` recent 8.0 release
+- vim Plugins:
+    - Vundle - modern plugin manager
+    - YouCompleteMe - semantic autocompletion
+    - Syntastic - syntax checking
+    - Rust - Rust language plugin
+    - NERDTree - better filesystem browsing
+    - git Gutter - Visual indicators of changes since last commit show up in gutter beside line numbers
+    - Surround - Easily change surrounding delimiters like parens and brackets
+    - Lightline - Additional context information in the status bar
+    - Gruvbox - A nicer theme for vim's colors than the default
 
 ## Common Issues Getting Started
 
