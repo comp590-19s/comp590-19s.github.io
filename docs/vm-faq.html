@@ -30,6 +30,7 @@
         </script></nav></div><div class="container mainContainer"><div class="wrapper"><div class="post"><header class="postHeader"><h1 class="postHeaderTitle">Virtual Machine (VM) - Frequently Asked Questions</h1></header><article><div><span><p>Categories:</p>
 <ul>
 <li><a href="#operating-the-vm">Operating the VM</a></li>
+<li><a href="#vm-capabilities">VM Capabilities</a></li>
 <li><a href="#common-issues-getting-started">Common Issues Getting Started</a></li>
 </ul>
 <h2><a class="anchor" aria-hidden="true" id="operating-the-vm"></a><a href="#operating-the-vm" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Operating the VM</h2>
@@ -57,6 +58,55 @@
 <h3><a class="anchor" aria-hidden="true" id="what-happens-if-i-forget-to-stop-the-vm"></a><a href="#what-happens-if-i-forget-to-stop-the-vm" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>What happens if I forget to stop the VM?</h3>
 <p>Some of your computer's memory and CPU time will be allocated toward running the VM just like any other program. The idle state of your VM does not use many resources, though, so the cost of accidentally leaving your VM running is relatively small.</p>
 <p>If you attempt to reboot your host machine while the VM is running you will likely receive an error message confirming you want to terminate the VM. We recommend <em>not</em> <strong>terminating</strong> the VM, and properly shutting it down using the steps above.</p>
+<h2><a class="anchor" aria-hidden="true" id="vm-capabilities"></a><a href="#vm-capabilities" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>VM Capabilities</h2>
+<h3><a class="anchor" aria-hidden="true" id="what-programming-languages-and-tools-are-installed-on-the-vm"></a><a href="#what-programming-languages-and-tools-are-installed-on-the-vm" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>What programming languages and tools are installed on the VM?</h3>
+<p>The VM is loaded with programming languages and tools and you are encouraged to experiment with any! For the purposes of this course, we will not be able to cover them all.</p>
+<p>Operating System: <strong>Ubuntu Server 18.04</strong></p>
+<p>Programming Languages</p>
+<ul>
+<li>Rust</li>
+<li>C and C++ (with both gcc and clang compilers)</li>
+<li>Python 3 (and 2)</li>
+<li>Jupyter Notebook (once started, accessible at 33.33.33.33:3000)</li>
+<li>JavaScript (<code>node</code> and <code>npm</code>)</li>
+<li>TypeScript (and <code>ts-node</code>)</li>
+<li>Ruby</li>
+<li>Scheme</li>
+<li>PHP</li>
+<li>Bash</li>
+</ul>
+<p>Utilities</p>
+<ul>
+<li><code>git</code> - Version control</li>
+<li><code>gdb</code> - GNU Debugger</li>
+<li><code>valgrind</code> - Memory leak detection and profiling</li>
+<li><code>rsync</code> - Fast file transfers</li>
+<li><code>htop</code> - Improved system monitor</li>
+<li><code>curl</code> - HTTP request tool</li>
+<li><code>zip</code> - Zip file compression</li>
+</ul>
+<p>Documentation Tools</p>
+<ul>
+<li>LaTeX and TexLive</li>
+<li><code>pandoc</code></li>
+<li><code>graphviz</code></li>
+</ul>
+<p>File Editor</p>
+<ul>
+<li><code>vim</code> recent 8.0 release</li>
+<li>vim Plugins:
+<ul>
+<li>Vundle - modern plugin manager</li>
+<li>YouCompleteMe - semantic autocompletion</li>
+<li>Syntastic - syntax checking</li>
+<li>Rust - Rust language plugin</li>
+<li>NERDTree - better filesystem browsing</li>
+<li>git Gutter - Visual indicators of changes since last commit show up in gutter beside line numbers</li>
+<li>Surround - Easily change surrounding delimiters like parens and brackets</li>
+<li>Lightline - Additional context information in the status bar</li>
+<li>Gruvbox - A nicer theme for vim's colors than the default</li>
+</ul></li>
+</ul>
 <h2><a class="anchor" aria-hidden="true" id="common-issues-getting-started"></a><a href="#common-issues-getting-started" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Common Issues Getting Started</h2>
 <h3><a class="anchor" aria-hidden="true" id="what-should-i-do-if-virtualbox-fails-to-install"></a><a href="#what-should-i-do-if-virtualbox-fails-to-install" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>What should I do if VirtualBox fails to install?</h3>
 <p>Mac: If you're seeing a message regarding &quot;The installation failed.&quot; when installing Virtual Box it is likely due to MacOS's default security settings blocking the installation of an application downloaded outside of the App Store. <a href="https://medium.com/@DMeechan/fixing-the-installation-failed-virtualbox-error-on-mac-high-sierra-7c421362b5b5">Try following these instructions to complete the installation</a>.</p>
@@ -70,4 +120,4 @@
 <p>This error message likely indicates an anti-virus or anti-malware program is tampering with the programs on your computer in an invasive way. You will need to create an exception for VirtualBox, disable, or uninstall the software at issue. <a href="https://forums.virtualbox.org/viewtopic.php?p=388051#p388051">This thread was useful in attempting to resolve the issue</a>. At least one student's issue went away by uninstalling &quot;Trusteer Endpoint Protection&quot;.</p>
 <p>It may also suggest a corrupted install. If the above solution does not work, try reinstalling Virtual Box.</p></li>
 </ul>
-</span></div></article></div><div class="docs-prevnext"><a class="docs-prev button" href="/docs/syllabus"><span class="arrow-prev">← </span><span>Syllabus</span></a></div></div></div><nav class="onPageNav"><ul class="toc-headings"><li><a href="#operating-the-vm">Operating the VM</a><ul class="toc-headings"><li><a href="#how-do-i-start-the-vm">How do I start the VM?</a></li><li><a href="#i-accidentally-closed-my-terminal-how-do-i-get-back-into-the-vm">I accidentally closed my terminal, how do I get back into the VM?</a></li><li><a href="#can-i-have-multiple-terminal-sessions-windows-tabs-into-the-vm-simultaneously">Can I have multiple terminal sessions/windows/tabs into the VM simultaneously?</a></li><li><a href="#how-can-i-tell-if-i-am-logged-into-the-vm-in-a-terminal">How can I tell if I am logged into the VM in a terminal?</a></li><li><a href="#how-do-i-stop-the-vm">How do I stop the VM?</a></li><li><a href="#what-happens-if-i-forget-to-stop-the-vm">What happens if I forget to stop the VM?</a></li></ul></li><li><a href="#common-issues-getting-started">Common Issues Getting Started</a><ul class="toc-headings"><li><a href="#what-should-i-do-if-virtualbox-fails-to-install">What should I do if VirtualBox fails to install?</a></li><li><a href="#what-should-i-do-if-vagrant-up-has-errors">What should I do if <code>vagrant up</code> has errors?</a></li></ul></li></ul></nav></div><footer class="nav-footer" id="footer"><section class="sitemap"><a href="/" class="nav-home"><img src="/img/old-well.svg" alt="Little Languages of Unix - COMP590 19S" width="66" height="58"/></a><div><h5>Docs</h5><a href="/docs/assignments.html">Assignments</a><a href="/docs/lectures.html">Lectures</a><a href="/docs/resources.html">Resources</a></div><div><h5>Tools</h5><a href="https://gradescope.com" target="_blank" rel="noreferrer noopener">Gradescope</a><a href="https://course.care/e/BD564B" target="_blank" rel="noreferrer noopener">Course.Care</a><a href="piazza.com/unc/spring2019/comp590140" target="_blank" rel="noreferrer noopener">Piazza</a></div><div><h5>More</h5><a target="_blank" href="https://github.com/comp590-19s">GitHub</a></div></section><section class="copyright">Copyright © 2019 Kris Jordan</section></footer></div></body></html>
+</span></div></article></div><div class="docs-prevnext"><a class="docs-prev button" href="/docs/syllabus"><span class="arrow-prev">← </span><span>Syllabus</span></a></div></div></div><nav class="onPageNav"><ul class="toc-headings"><li><a href="#operating-the-vm">Operating the VM</a><ul class="toc-headings"><li><a href="#how-do-i-start-the-vm">How do I start the VM?</a></li><li><a href="#i-accidentally-closed-my-terminal-how-do-i-get-back-into-the-vm">I accidentally closed my terminal, how do I get back into the VM?</a></li><li><a href="#can-i-have-multiple-terminal-sessions-windows-tabs-into-the-vm-simultaneously">Can I have multiple terminal sessions/windows/tabs into the VM simultaneously?</a></li><li><a href="#how-can-i-tell-if-i-am-logged-into-the-vm-in-a-terminal">How can I tell if I am logged into the VM in a terminal?</a></li><li><a href="#how-do-i-stop-the-vm">How do I stop the VM?</a></li><li><a href="#what-happens-if-i-forget-to-stop-the-vm">What happens if I forget to stop the VM?</a></li></ul></li><li><a href="#vm-capabilities">VM Capabilities</a><ul class="toc-headings"><li><a href="#what-programming-languages-and-tools-are-installed-on-the-vm">What programming languages and tools are installed on the VM?</a></li></ul></li><li><a href="#common-issues-getting-started">Common Issues Getting Started</a><ul class="toc-headings"><li><a href="#what-should-i-do-if-virtualbox-fails-to-install">What should I do if VirtualBox fails to install?</a></li><li><a href="#what-should-i-do-if-vagrant-up-has-errors">What should I do if <code>vagrant up</code> has errors?</a></li></ul></li></ul></nav></div><footer class="nav-footer" id="footer"><section class="sitemap"><a href="/" class="nav-home"><img src="/img/old-well.svg" alt="Little Languages of Unix - COMP590 19S" width="66" height="58"/></a><div><h5>Docs</h5><a href="/docs/assignments.html">Assignments</a><a href="/docs/lectures.html">Lectures</a><a href="/docs/resources.html">Resources</a></div><div><h5>Tools</h5><a href="https://gradescope.com" target="_blank" rel="noreferrer noopener">Gradescope</a><a href="https://course.care/e/BD564B" target="_blank" rel="noreferrer noopener">Course.Care</a><a href="piazza.com/unc/spring2019/comp590140" target="_blank" rel="noreferrer noopener">Piazza</a></div><div><h5>More</h5><a target="_blank" href="https://github.com/comp590-19s">GitHub</a></div></section><section class="copyright">Copyright © 2019 Kris Jordan</section></footer></div></body></html>
