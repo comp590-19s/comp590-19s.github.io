@@ -66,8 +66,10 @@ Look for the error message printed and see if yours has any of the following cha
 
     Many Windows laptops, including some CCI Lenovo Laptops, ship with an important virtualization feature of their CPU disabled. This feature is called [VT-x](https://en.wikipedia.org/wiki/X86_virtualization). You will need to search for and find instructions for "Enabling VT-x" specific to your laptop manufacturer.
 
-    [Students with CCI Lenovo laptops have had success following these instructions for enabling VT-x](https://support.lenovo.com/us/en/solutions/ht500006). 
+    Students with CCI Lenovo laptops can [follow these instructions for enabling VT-x](https://support.lenovo.com/us/en/solutions/ht500006). 
 
 * **Error: Terminated unexpectedly during startup [..] VBoxHardening.log** 
 
-    This error message has been known to indicate an anti-virus or anti-malware program is tampering with the programs on your computer in an invasive way. You will need to create an exception for VirtualBox, disable, or uninstall the software at issue. [This thread was useful in attempting to resolve the issue](https://forums.virtualbox.org/viewtopic.php?p=388051#p388051). At least one student's issue went away by uninstalling "Trusteer Endpoint Protection".
+    This error message likely indicates an anti-virus or anti-malware program is tampering with the programs on your computer in an invasive way. You will need to create an exception for VirtualBox, disable, or uninstall the software at issue. [This thread was useful in attempting to resolve the issue](https://forums.virtualbox.org/viewtopic.php?p=388051#p388051). At least one student's issue went away by uninstalling "Trusteer Endpoint Protection".
+
+    It may also suggest a corrupted install. If the above solution does not work, try reinstalling Virtual Box.
