@@ -9,6 +9,10 @@
         "title": "Assignments",
         "sidebar_label": "Assignments"
       },
+      "course-materials": {
+        "title": "Course Materials & GRQs",
+        "sidebar_label": "Course Materials & GRQs"
+      },
       "home": {
         "title": "home"
       },
