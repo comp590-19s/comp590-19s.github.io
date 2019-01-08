@@ -1,4 +1,8 @@
-The Little Languages of Unix
+-----
+
+![Little Languages](/docs/assets/title.jpg)
+
+-----
 
 Computer scientists and software engineers depend on tools that interpret Little Languages ([Bentley, UNC '76](http://staff.um.edu.mt/afra1/seminar/little-languages.pdf)) frequently in their day-to-day work: command-line shells, project build system configurations, regular expressions, utility programs, documentation markup languages, modal text editors, and so on. As these languages are numerous and domain-specific, our focus will be on their first principles, common challenges, implementations, and limitations.
 
