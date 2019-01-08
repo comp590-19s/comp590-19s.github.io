@@ -1,4 +1,4 @@
-# The Interpretation and Applications of Little Languages
+# The Little Languages of Unix
 
 Computer scientists and software engineers depend on tools that interpret little languages frequently in their day-to-day work: command-line shells, project build system configurations, regular expressions, utility programs, documentation markup languages, modal text editors, and so on. As these languages are numerous and domain-specific, our focus will be on their first principles, common challenges, implementations, and limitations.
 
@@ -43,5 +43,5 @@ In this course, you will:
         - Use piping and redirection to compose programs together
     - Make use of a historical build system and its configuration file (`make`)
     - Gain comfort operating a standard text editor and its command language (`vim`)
-    - Gain exposure to powerful text procesing utilities and their little languages (`sed`, `awk`, `grep`)
+    - Gain exposure to powerful text processing utilities and their little languages (`sed`, `awk`, `grep`)
     - Gain proficiency with a version control system (`git`)
