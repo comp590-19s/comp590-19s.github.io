@@ -3,6 +3,7 @@
 <url> <loc>https://comp590-19s.github.io/help</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> <xhtml:link rel="alternate" hreflang="en" href="https://comp590-19s.github.io/en/help" /> </url>
 <url> <loc>https://comp590-19s.github.io/index</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> <xhtml:link rel="alternate" hreflang="en" href="https://comp590-19s.github.io/en/index" /> </url>
 <url> <loc>https://comp590-19s.github.io/docs/assignments</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://comp590-19s.github.io/docs/assignments" /> </url>
+<url> <loc>https://comp590-19s.github.io/docs/course-materials</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://comp590-19s.github.io/docs/course-materials" /> </url>
 <url> <loc>https://comp590-19s.github.io/docs/home</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://comp590-19s.github.io/docs/home" /> </url>
 <url> <loc>https://comp590-19s.github.io/docs/lectures</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://comp590-19s.github.io/docs/lectures" /> </url>
 <url> <loc>https://comp590-19s.github.io/docs/resources</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://comp590-19s.github.io/docs/resources" /> </url>
