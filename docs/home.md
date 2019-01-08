@@ -1,6 +1,6 @@
 -----
 
-![Little Languages](/img/title.jpg)
+![Little Languages](/docs/assets/title.jpg)
 
 -----
 
