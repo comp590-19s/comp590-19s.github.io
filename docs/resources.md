@@ -13,4 +13,4 @@ Commonly useful resources:
 - Course Materials
     - [Getting Started](/docs/course-materials#getting-started)
     - [Pulling Updates](/docs/course-materials#pulling-updates-from-upstream)
-    - [GRQs - Generating PDFs for Hand in](/docs/course-materials#guided-reading-questions)
+    - [Working on GRQs](/docs/course-materials#guided-reading-questions)
