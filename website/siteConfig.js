@@ -12,7 +12,7 @@
 const users = [];
 
 const siteConfig = {
-  title: 'Little Languages of Unix - COMP590 19S',
+  title: 'Little Languages - 19S',
   tagline: '',
   url: 'https://comp590-19s.github.io', // Your website URL
   baseUrl: '/', // Base URL for your project */

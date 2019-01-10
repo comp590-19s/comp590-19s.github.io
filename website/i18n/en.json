@@ -24,6 +24,10 @@
         "title": "Resources",
         "sidebar_label": "Resources"
       },
+      "sandbox-projects": {
+        "title": "Sandbox Projects",
+        "sidebar_label": "Sandbox Projects"
+      },
       "syllabus": {
         "title": "Syllabus - COMP590 - 140",
         "sidebar_label": "Syllabus"

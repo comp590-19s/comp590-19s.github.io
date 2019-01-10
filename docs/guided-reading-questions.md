@@ -20,9 +20,15 @@ You'll need to boot and log in to your VM from here. See the instructions on the
 
 Once logged in, from your home directory clone the repository whose URL you copied above:
 
+    cd ~
     git clone <paste the git@github.com... url>
 
 *Windows reminder, to paste in Git Bash you'll need to right click paste or press the Shift+Insert keys.*
+
+When you run the `git clone` command it is downloading the repository into a subdirectory. You will need to change your working directory to be the repository you just cloned:
+
+    cd 590-materials-<your-github-username>
+
 
 ### Add the Official Branch as the `upstream` Remote
 
@@ -43,36 +49,17 @@ To see the details of any given remote, you can use `git remote show <remote nam
 
 The names `origin` and `upstream` are only conventions. Like variable names, you could remove them and add them back with completely different names. 
 
-### Pulling Updates from `upstream`
+## Pulling Changes from `upstream`
 
-Before each lecture or after a set of GRQs is released, you will want to `pull` these changes from our official repo you've established as the `upstream` remote in the steps above. To do so, use the following command:
+Before each lecture or after a set of GRQs is released, you will want to `pull` these changes from our official repository you've established as the `upstream` remote in the steps above. To do so, first be sure you are in your folder with the `pwd`, print working directory, command. If your working directory is not: `/home/vagrant/590-materials-<you>`, then first navigate there:
+
+    cd ~/590-materials-<you>
+
+Then, use the following command:
 
     git pull upstream master
 
-This command pulls the `master` branch, which is where we will be making official commits, from the `upstream`, official repository into your local VM repository.
-
-### Backing up Your Work
-
-After you've completed exercises in lecture or worked on GRQs, you should add the changes you made to a commit and push that commit to your private repository. The workflow will generally look like this:
-
-    git status
-
-This shows you all of the files that have changed since your last commit. Next you'll add the files you want to commit.
-
-    git add <file you want to commit>
-    git add <file you want to commit>
-    # ... add all the changed files you want
-    git status
-
-When the `git status` command completes you should see files ready to be committed. To make a commit, which is like a saved checkpoint of your project, run the `commit` command:
-
-    git commit -m "<some description of the work you just completed>"
-
-Finally, to push your work to your private GitHub fork:
-
-    git push origin master
-
-Notice here `origin` is the name of your personal, forked repository.
+This command pulls the `master` branch, which is where we will be making official commits, from the official `upstream` repository into your local VM repository.
 
 ## Guided Reading Questions 
 
@@ -105,3 +92,26 @@ On Windows, open a File Explorer and navigate it to the directory where your `co
 On Mac, open Finder and nagivate to the directory where your `comp-unc-vm` was setup. You should see a PDF file there.
 
 Read over your PDF and make any changes by repeating the process above. Upload it to Gradescope once complete.
+
+## Backing up Your Work
+
+After you've completed exercises in lecture or worked on GRQs, you should add the changes you made to a commit and push that commit to your private repository. The workflow will generally look like this:
+
+    git status
+
+This shows you all of the files that have changed since your last commit. Next you'll add the files you want to commit.
+
+    git add <file you want to commit>
+    git add <file you want to commit>
+    # ... add all the changed files you want
+    git status
+
+When the `git status` command completes you should see files ready to be committed. To make a commit, which is like a saved checkpoint of your project, run the `commit` command:
+
+    git commit -m "<some description of the work you just completed>"
+
+Finally, to push your work to your private GitHub fork:
+
+    git push origin master
+
+Notice here `origin` is the name of your personal, forked repository.
