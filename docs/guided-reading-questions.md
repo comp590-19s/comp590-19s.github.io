@@ -10,9 +10,9 @@ Guided Reading Questions (GRQs) and Lecture materials are distributed via `git` 
 
 ### Fork the Official Repo
 
-To begin, you'll need to establish your own private fork of the `590-materials` repository by following this starter link: <https://classroom.github.com/a/xnJ-6sSM>
+To begin, you'll need to establish your own private fork of the `590-material` repository by following this starter link: <https://classroom.github.com/a/xnJ-6sSM>
 
-This will establish a private repository named `590-materials-<your-github-name>` on GitHub. Find the SSH end-point to "Clone or Download" your URL, it will be `git@github.com:comp590-19s/590-materials-<your-github-name>` and copy it to your clipboard.
+This will establish a private repository named `590-material-<your-github-name>` on GitHub. Find the SSH end-point to "Clone or Download" your URL, it will be `git@github.com:comp590-19s/590-material-<your-github-name>` and copy it to your clipboard.
 
 ### Clone the Fork in your VM
 
@@ -27,8 +27,7 @@ Once logged in, from your home directory clone the repository whose URL you copi
 
 When you run the `git clone` command it is downloading the repository into a subdirectory. You will need to change your working directory to be the repository you just cloned:
 
-    cd 590-materials-<your-github-username>
-
+    cd 590-material-<your-github-username>
 
 ### Add the Official Branch as the `upstream` Remote
 
@@ -51,9 +50,9 @@ The names `origin` and `upstream` are only conventions. Like variable names, you
 
 ## Pulling Changes from `upstream`
 
-Before each lecture or after a set of GRQs is released, you will want to `pull` these changes from our official repository you've established as the `upstream` remote in the steps above. To do so, first be sure you are in your folder with the `pwd`, print working directory, command. If your working directory is not: `/home/vagrant/590-materials-<you>`, then first navigate there:
+Before each lecture or after a set of GRQs is released, you will want to `pull` these changes from our official repository you've established as the `upstream` remote in the steps above. To do so, first be sure you are in your folder with the `pwd`, print working directory, command. If your working directory is not: `/home/vagrant/590-material-<you>`, then first navigate there:
 
-    cd ~/590-materials-<you>
+    cd ~/590-material-<you>
 
 Then, use the following command:
 
