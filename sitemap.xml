@@ -8,6 +8,7 @@
 <url> <loc>https://comp590-19s.github.io/docs/lectures</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://comp590-19s.github.io/docs/lectures" /> </url>
 <url> <loc>https://comp590-19s.github.io/docs/resources</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://comp590-19s.github.io/docs/resources" /> </url>
 <url> <loc>https://comp590-19s.github.io/docs/sandbox-projects</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://comp590-19s.github.io/docs/sandbox-projects" /> </url>
+<url> <loc>https://comp590-19s.github.io/docs/syllabus-pandoc</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://comp590-19s.github.io/docs/syllabus-pandoc" /> </url>
 <url> <loc>https://comp590-19s.github.io/docs/syllabus</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://comp590-19s.github.io/docs/syllabus" /> </url>
 <url> <loc>https://comp590-19s.github.io/docs/vm-faq</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://comp590-19s.github.io/docs/vm-faq" /> </url>
 </urlset>
