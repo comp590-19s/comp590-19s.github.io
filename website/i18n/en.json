@@ -28,6 +28,9 @@
         "title": "Sandbox Projects",
         "sidebar_label": "Sandbox Projects"
       },
+      "syllabus-pandoc": {
+        "title": "syllabus-pandoc"
+      },
       "syllabus": {
         "title": "Syllabus - COMP590 - 140",
         "sidebar_label": "Syllabus"

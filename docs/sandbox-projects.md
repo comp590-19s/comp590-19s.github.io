@@ -4,21 +4,21 @@ title: Sandbox Projects
 sidebar_label: Sandbox Projects
 ---
 
-If there's an idea you'd like to play around with, or a project you're following along with in the text, we encourage you to store your experimental Cargo/Rust projects in the `sandbox` folder of your personal `590-materials` repository. Doing so, you can use `git` to `add`, `commit`, and `push` your experimental projects to GitHub for backup. Of course, GitHub now offers free private repositories, so you're welcome to organize and backup your experimental apps outside the `590-materials` directory any way you'd like.
+If there's an idea you'd like to play around with, or a project you're following along with in the text, we encourage you to store your experimental Cargo/Rust projects in the `sandbox` folder of your personal `590-material` repository. Doing so, you can use `git` to `add`, `commit`, and `push` your experimental projects to GitHub for backup. Of course, GitHub now offers free private repositories, so you're welcome to organize and backup your experimental apps outside the `590-material` directory any way you'd like.
 
 ## Creating a Rust project
 
 While logged into your VM, after following the getting started steps above, change your working directory to be:
 
-    cd ~/590-materials-<you>/sandbox
+    cd ~/590-material-<you>/sandbox
 
 Then, use Rust's project tool belt utility `cargo` to initialize a new project:
 
-    cargo init sandbox-demo
+    cargo new --bin sandbox-demo
     cd sandbox-demo
     find -type f
 
-The `cargo init sandbox-demo` command initialized a child directory named `sandbox-demo`, and generated two files in it. With the `cd` command, you navigated into the generated directory and using `find -type f` you printed the two files `cargo` generated. Try leaving off `-type f` and seeing the difference.
+The `cargo new --bin sandbox-demo` command initialized a child directory named `sandbox-demo`, and generated two files in it. With the `cd` command, you navigated into the generated directory and using `find -type f` you printed the two files `cargo` generated. Try leaving off `-type f` and seeing the difference.
 
 Notice the two files generated are:
 
