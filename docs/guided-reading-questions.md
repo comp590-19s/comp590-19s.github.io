@@ -58,7 +58,7 @@ Then, use the following command:
 
     git pull upstream master
 
-This command pulls the `master` branch, which is where we will be making official commits, from the official `upstream` repository into your local VM repository.
+This command pulls the `master` branch, which is where we will be making official commits, from the official `upstream` repository into your local VM repository. You will often be notified you need to create a merge commit. Simply press `Control+X` if so and the changes from the `upstream` repository will be merged into yours.
 
 ## Guided Reading Questions 
 
