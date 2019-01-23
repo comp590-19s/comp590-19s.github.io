@@ -6,7 +6,7 @@ sidebar_label: Assignments
 
 | Due             |Time    | Type    | Name                                                                         |
 |-----------------|--------|---------|------------------------------------------------------------------------------|
-| Tuesday 1/29    |11:59pm | Code    | [PS02. `thdc` - Desk Calculator - Tokenization](/docs/ps02-thdc-tokens.pdf)  |
+| Wednesday 1/30  |11:59pm | Code    | [PS02. `thdc` - Desk Calculator - Tokenization](/docs/ps02-thdc-tokens.pdf)  |
 | Thursday 1/24   |11:59pm | Reading | [GRQ02. Ch4 & 5](/docs/course-materials#pulling-changes-from-upstream)       |
 | Sunday 1/20     |11:59pm | Code    | [PS01. `thecho` - Tar Heel `echo`](/docs/ps01-thecho.pdf)                    |
 | Wednesday 1/16  |11:00am | Reading | [GRQ01. Ch3 Types](/docs/course-materials#pulling-changes-from-upstream)     |
