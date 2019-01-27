@@ -59,7 +59,7 @@ class Footer extends React.Component {
               Course.Care
             </a>
             <a
-              href="piazza.com/unc/spring2019/comp590140"
+              href="https://piazza.com/unc/spring2019/comp590140"
               target="_blank"
               rel="noreferrer noopener">
 	      Piazza
