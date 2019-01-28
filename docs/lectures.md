@@ -1,11 +1,12 @@
 ---
 id: lectures
 title: Lectures
-sidebar_label: Lecturess
+sidebar_label: Lectures
 ---
 
 | Date  | Topic                                                               | Files                                         |
 |-------|---------------------------------------------------------------------|-----------------------------------------------|
+| 1/28  | 7. Test-Driven Development                                          | [Slides](/docs/lec/07-tdd.pdf)                |
 | 1/25  | 6. Extended Regular Expression Operators and `vim` Commands         | [Slides](/docs/lec/06-more-regex-and-vim.pdf) |
 | 1/23  | 5. Lexical Analysis: Regular Expressions and Tokenization           | [Slides](/docs/lec/05-regex-n-tokens.pdf)     |
 | 1/18  | 4. Stack Values and References 			                          | [Slides](/docs/lec/04-stack-vals-refs.pdf)    |
