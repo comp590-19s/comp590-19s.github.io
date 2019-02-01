@@ -6,6 +6,7 @@ sidebar_label: Lectures
 
 | Date  | Topic                                                               | Files                                          |
 |-------|---------------------------------------------------------------------|----------------------------------------------- |
+| 2/1   | 9. Native Arrays and Dynamic, "Heap" Memory                         | [Slides](/docs/lec/09-arrays-and-the-heap.pdf)|
 | 1/30  | 8. Lifetimes and Mutability                                         | [Slides](/docs/lec/08-lifetimes-mutability.pdf)|
 | 1/28  | 7. Test-Driven Development                                          | [Slides](/docs/lec/07-tdd.pdf)                 |
 | 1/25  | 6. Extended Regular Expression Operators and `vim` Commands         | [Slides](/docs/lec/06-more-regex-and-vim.pdf)  |
