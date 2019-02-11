@@ -6,6 +6,7 @@ sidebar_label: Lectures
 
 | Date  | Topic                                                               | Files                                              |
 |-------|---------------------------------------------------------------------|----------------------------------------------------|
+| 2/8   | 12. Recursive descent parsing 101                                   | [Slides](/docs/lec/12-recursive-descent-parsing.pdf)|
 | 2/6   | 11. Recursive walks and code gen 101 with DOT                       | [Slides](/docs/lec/11-recursive-walks-code-gen.pdf)|
 | 2/4   | 10. Dynamic Memory and Recursive Types in Rust                      | [Slides](/docs/lec/10-rust-recursive-types.pdf)    |
 | 2/1   | 9. C's Native Arrays and Dynamic, "Heap" Memory                     | [Slides](/docs/lec/09-arrays-and-the-heap.pdf)     |
