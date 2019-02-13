@@ -6,6 +6,7 @@ sidebar_label: Lectures
 
 | Date  | Topic                                                               | Files                                               |
 |-------|---------------------------------------------------------------------|-----------------------------------------------------|
+| 2/13  | 14. Review Game - Tracing Practice                                  | [Slides](/docs/lec/14-tracing-practice.pdf)         |
 | 2/11  | 13. Leftmost Grammar Derivations and Expr Trees                     | [Slides](/docs/lec/13-leftmost-derivations-expr.pdf)|
 | 2/8   | 12. Recursive descent parsing 101                                   | [Slides](/docs/lec/12-recursive-descent-parsing.pdf)|
 | 2/6   | 11. Recursive walks and code gen 101 with DOT                       | [Slides](/docs/lec/11-recursive-walks-code-gen.pdf) |
