@@ -6,6 +6,7 @@ sidebar_label: Lectures
 
 | Date  | Topic                                                               | Files                                               |
 |-------|---------------------------------------------------------------------|-----------------------------------------------------|
+| 2/18  | 16. Shell Redirection and Pipelines & Midterm Overview              | [Slides](/docs/lec/16-shell-redirection-pipes.pdf)  |
 | 2/15  | 15. Fundamentals of `git`                                           | [Slides](/docs/lec/15-git-fundamentals.pdf)         |
 | 2/13  | 14. Review Game - Tracing Practice                                  | [Slides](/docs/lec/14-tracing-practice.pdf)         |
 | 2/11  | 13. Leftmost Grammar Derivations and Expr Trees                     | [Slides](/docs/lec/13-leftmost-derivations-expr.pdf)|
