@@ -6,6 +6,7 @@ sidebar_label: Assignments
 
 | Due             |Time    | Type         | Name                                                                         |
 |-----------------|--------|--------------|------------------------------------------------------------------------------|
+| Friday 3/5      | 4:59pm | Code         | [PS05. `thegrep` - Beginnings of Tar Heel `egrep`](/docs/ps05-thegrep-p1.pdf)|
 | Monday 2/18     |11:59pm | Code         | [PS04. `thbc` - `Expr` Parser and `dc` Generator](/docs/ps04-thbc-part1.pdf) |
 | Friday 2/8      |11:59pm | Code         | [PS03. `thdc` - Stack Machine Interpreter](/docs/ps03-thdc-stack-machine.pdf)|
 | Sunday 2/3      |11:59pm | [Reading][1] | [GRQ03. Ch6, 9, 10](/docs/grqs/grq03-exprs-structs-enums.pdf)                |
