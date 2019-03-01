@@ -6,6 +6,7 @@ sidebar_label: Lectures
 
 | Date  | Topic                                                               | Files                                               |
 |-------|---------------------------------------------------------------------|-----------------------------------------------------|
+| 3/1   | 19. Code Review and Pair Programming                                | [Slides](/docs/lec/19-code-review-pair-programming.pdf)|
 | 2/27  | 18. File Input Tutorial                                             | [Slides](/docs/lec/18-file-input-tutorial.pdf)      |
 | 2/25  | 17. Merging branches in `git`                                       | [Slides](/docs/lec/17-git-merging.pdf)              |
 | 2/18  | 16. Shell Redirection and Pipelines & Midterm Overview              | [Slides](/docs/lec/16-shell-redirection-pipes.pdf)  |
