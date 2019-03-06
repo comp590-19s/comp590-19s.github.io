@@ -6,6 +6,7 @@ sidebar_label: Lectures
 
 | Date  | Topic                                                               | Files                                               |
 |-------|---------------------------------------------------------------------|-----------------------------------------------------|
+| 3/6   | 21. Modeling NFAs                                                   | [Slides](/docs/lec/21-modeling-nfas.pdf)            |
 | 3/4   | 20. Regular Expressions and Automata                                | [Slides](/docs/lec/20-regexpr-and-automata.pdf)     |
 | 3/1   | 19. Code Review and Pair Programming                                | [Slides](/docs/lec/19-code-review-pair-programming.pdf)|
 | 2/27  | 18. File Input Tutorial                                             | [Slides](/docs/lec/18-file-input-tutorial.pdf)      |
