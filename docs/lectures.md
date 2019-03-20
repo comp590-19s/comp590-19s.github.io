@@ -6,7 +6,8 @@ sidebar_label: Lectures
 
 | Date  | Topic                                                               | Files                                               |
 |-------|---------------------------------------------------------------------|-----------------------------------------------------|
-| 3/18  | 23. Constructing an NFA from a RegEx                                | [Slides](/docs/lec/23-nfa-construction.pdf)         |
+| 3/20  | 24. `sed` and Regular Expression Capturing Groups                   | [Slides](/docs/lec/24-sed-and-capturing-groups.pdf) |
+| 3/18  | 23. Constructing an NFA from a Regular Expressions                  | [Slides](/docs/lec/23-nfa-construction.pdf)         |
 | 3/8   | 22. Esoteric Languages                                              |                                                     |
 | 3/6   | 21. Modeling NFAs                                                   | [Slides](/docs/lec/21-modeling-nfas.pdf)            |
 | 3/4   | 20. Regular Expressions and Automata                                | [Slides](/docs/lec/20-regexpr-and-automata.pdf)     |
