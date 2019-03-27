@@ -6,6 +6,7 @@ sidebar_label: Lectures
 
 | Date  | Topic                                                               | Files                                               |
 |-------|---------------------------------------------------------------------|-----------------------------------------------------|
+| 3/27  | 27. Operator Overloading                                            | [Slides](/docs/lec/27-operator-overloading.pdf)     |
 | 3/25  | 26. Exit Statuses                                                   | [Slides](/docs/lec/26-exit-statuses.pdf)            |
 | 3/22  | 25. `xargs`, `wget`, and Using Regular Expressions to Scrape        | [Slides](/docs/lec/25-xargs-and-regex-scraping.pdf) |
 | 3/20  | 24. `sed` and Regular Expression Capturing Groups                   | [Slides](/docs/lec/24-sed-and-capturing-groups.pdf) |
