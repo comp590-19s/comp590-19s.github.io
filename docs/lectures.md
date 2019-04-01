@@ -6,6 +6,7 @@ sidebar_label: Lectures
 
 | Date  | Topic                                                               | Files                                               |
 |-------|---------------------------------------------------------------------|-----------------------------------------------------|
+| 4/1   | 28. `make` and `Makefile`s                                          | [Slides](/docs/lec/28-make-and-makefiles.pdf)       |
 | 3/27  | 27. Operator Overloading                                            | [Slides](/docs/lec/27-operator-overloading.pdf)     |
 | 3/25  | 26. Exit Statuses                                                   | [Slides](/docs/lec/26-exit-statuses.pdf)            |
 | 3/22  | 25. `xargs`, `wget`, and Using Regular Expressions to Scrape        | [Slides](/docs/lec/25-xargs-and-regex-scraping.pdf) |
