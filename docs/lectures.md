@@ -6,7 +6,7 @@ sidebar_label: Lectures
 
 | Date  | Topic                                                               | Files                                               |
 |-------|---------------------------------------------------------------------|-----------------------------------------------------|
-| 4/10  | 30. Parser Generators                                               | [Slides](/docs/lec/30-parser-generators.pdf)        |
+| 4/10  | 30. Parser Generators                                               | [Slides](/docs/lec/30-parser-generator.pdf)        |
 | 4/3   | 29. Midterm Review                                                  | [Slides](/docs/lec/29-midterm-review.pdf)           |
 | 4/1   | 28. `make` and `Makefile`s                                          | [Slides](/docs/lec/28-make-and-makefiles.pdf)       |
 | 3/27  | 27. Operator Overloading                                            | [Slides](/docs/lec/27-operator-overloading.pdf)     |
