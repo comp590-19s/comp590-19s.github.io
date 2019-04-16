@@ -6,6 +6,7 @@ sidebar_label: Lectures
 
 | Date  | Topic                                                               | Files                                               |
 |-------|---------------------------------------------------------------------|-----------------------------------------------------|
+| 4/15  | 31. Reviewing Midterm Question 7                                    | [Slides](/docs/lec/31-midterm-review.pdf)           |
 | 4/10  | 30. Parser Generators                                               | [Slides](/docs/lec/30-parser-generator.pdf)         |
 | 4/3   | 29. Midterm Review                                                  | [Slides](/docs/lec/29-midterm-review.pdf)           |
 | 4/1   | 28. `make` and `Makefile`s                                          | [Slides](/docs/lec/28-make-and-makefiles.pdf)       |
