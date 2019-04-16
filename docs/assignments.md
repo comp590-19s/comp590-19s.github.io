@@ -6,6 +6,7 @@ sidebar_label: Assignments
 
 | Due             |Time    | Type         | Name                                                                             |
 |-----------------|--------|--------------|----------------------------------------------------------------------------------|
+| Friday 4/26     |11:59pm | Code         | [PS07. `thegrep` - Extensions](/docs/ps07-thegrep-extensions.pdf)                |
 | Monday 4/1      |11:59pm | Code         | [PS06. `thegrep` - Construct and Simulate an NFA](/docs/ps06-thegrep-nfa-v2.pdf) |
 | Friday 3/8      | 4:59pm | Code         | [PS05. `thegrep` - Beginnings of Tar Heel `egrep`](/docs/ps05-thegrep-p1.pdf)    |
 | Monday 2/18     |11:59pm | Code         | [PS04. `thbc` - `Expr` Parser and `dc` Generator](/docs/ps04-thbc-part1.pdf)     |
