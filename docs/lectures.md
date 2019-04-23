@@ -6,6 +6,7 @@ sidebar_label: Lectures
 
 | Date  | Topic                                                               | Files                                               |
 |-------|---------------------------------------------------------------------|-----------------------------------------------------|
+| 4/22  | 33. Compilation                                                     | [Slides](/docs/lec/33-compilation.pdf)              |
 | 4/17  | 32. Big Picture                                                     | [Slides](/docs/lec/32-big-picture.pdf)              |
 | 4/15  | 31. Reviewing Midterm Question 7                                    | [Slides](/docs/lec/31-midterm-review.pdf)           |
 | 4/10  | 30. Parser Generators                                               | [Slides](/docs/lec/30-parser-generator.pdf)         |
